@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Peter+Rowland+Ukotije-Ikwut;PhD+%7C+CEnv+%7C+MIEnvSc;Environmental+Scientist+%2B+AI+%26+Data+Practitioner;Turning+Environmental+Data+into+Insight)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Peter+Rowland+Ukotije-Ikwut;PhD+%7C+CEnv+%7C+MIEnvSc; Environmental+Scientist+%2B+AI+%26+Data+Practitioner; Turning+Environmental+Data+into+Insight)](https://git.io/typing-svg)
 
 <br/>
 
