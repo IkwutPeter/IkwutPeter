@@ -17,14 +17,43 @@
 
 ## 🌊 About Me
 
-I am a **Chartered Environmental Scientist (CEnv, MIEnvSc)** and **Researcher** at **Kiel University / GEOMAR Helmholtz Centre for Ocean Research Kiel**, where I investigate the interplay between anthropogenic activities and the export of trace elements to coastal waters. My research spans marine biogeochemistry, peatland ecosystems, wetland restoration, and water quality monitoring.
+I am **Dr. Peter Rowland Ukotije-Ikwut** — a leading authority in **Environmental Biogeochemistry and Industrial Safety Engineering**, with over a decade of experience spanning academia, the energy sector, and international research. I specialise in bridging biogeochemical theory with industrial application, and I apply **AI, machine learning, and modern data science tools** to extract meaningful insight from complex environmental datasets.
 
-What sets me apart: I bring **PhD-level scientific rigour** to every data problem, and I apply **AI, machine learning, and modern data tools** to extract meaningful insight from complex environmental datasets. I am actively building at the intersection of **environmental science and artificial intelligence**.
+### 🏛️ Academic & Leadership Roles
+- **Senior Lecturer**, Department of Industrial Safety & Environmental Engineering Technology, **Federal Polytechnic of Oil and Gas, Bonny**
+- **Director**, International Institute for Research — leading global initiatives addressing the energy transition and environmental stewardship
+- **Researcher**, **Kiel University / GEOMAR Helmholtz Centre for Ocean Research, Germany** — advancing trace metal dynamics and Dissolved Organic Carbon (DOC) modelling in tropical systems
 
-- 🔬 Research focus: Trace metal dynamics, marine chemistry, greenhouse gas exchange, petroleum waste remediation
-- 🤖 AI & Data: Python · R · MySQL · Power BI · Tableau · Excel · Machine Learning · Generative AI
-- 🌍 Based in Kiel, Germany | Open to global opportunities
-- 📧 Reach me via [LinkedIn](https://www.linkedin.com/in/peter-rowland-ukotije-ikwut-ph-d-cenv-mienvsc-84241368)
+### 🌍 Global Research Ecosystem
+As Director of the International Institute for Research, I have architected a leading global research network fostering collaboration between African researchers and the international scientific community. This ecosystem facilitates high-level knowledge transfer, applying technical expertise to localised challenges in the **Niger Delta** while contributing to global sustainability research.
+
+### ⚗️ Advanced Biogeochemistry & NICA-Donnan Modelling
+My research at **GEOMAR Helmholtz Centre (Germany)** advanced the understanding of trace metal dynamics and DOC in tropical systems. I am an expert in biogeochemical modelling, applying the **NICA-Donnan framework** to:
+- 🔹 Predict heavy metal speciation and bioavailability in complex water systems
+- 🔹 Analyse organic ligand binding in peatlands and estuarine gradients
+- 🔹 Assess the impact of pH and salinity on pollutant transport
+
+### 🛢️ Industrial Safety & Petroleum Sector
+For over ten years, I have integrated rigorous environmental standards with the practical demands of the petroleum industry — dedicated to fostering a **"Safety First"** culture and training professionals to manage high-risk industrial environments.
+
+### 🌱 Sustainable Remediation Innovation
+At **Coventry University (UK)**, I pioneered the use of **human hair as a sustainable adsorbent for oil spills** (biosorption) — providing an eco-friendly, low-cost alternative to conventional remediation methods.
+
+### 🤝 Consultancy Expertise
+As a **Chartered Environmentalist (CEnv)** and **Member of the Institution of Environmental Sciences (MIEnvSc)**, I provide consultancy in:
+- ♻️ **Subsurface Sustainability** — biogeochemical modelling for CCS and hydrogen energy transitions
+- 🏭 **Industrial Safety** — designing hazardous waste and occupational health frameworks
+- 💧 **Resource Protection** — managing wetlands, mangroves, groundwater integrity and industrial leaching
+
+---
+
+### 🤖 AI & Data Science
+What sets me apart further: I am actively building at the intersection of **environmental science and artificial intelligence** — applying Generative AI, prompt engineering, Python, R, Power BI, Tableau, MySQL, and machine learning to solve real-world environmental and industrial challenges.
+
+- 🔬 **Research focus:** Trace metal dynamics · Marine biogeochemistry · DOC modelling · Greenhouse gas exchange · Petroleum waste remediation · Wetland restoration
+- 🤖 **AI & Data:** Python · R · MySQL · Power BI · Tableau · Excel · Machine Learning · Generative AI · Prompt Engineering
+- 🌍 **Location:** Kiel, Germany | Open to global opportunities
+- 📧 **Connect:** [LinkedIn](https://www.linkedin.com/in/peter-rowland-ukotije-ikwut-ph-d-cenv-mienvsc-84241368)
 
 ---
 
