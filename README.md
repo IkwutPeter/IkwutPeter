@@ -17,7 +17,7 @@
 
 ## 🌊 About Me
 
-I am a **Chartered Environmental Scientist (CEnv, MIEnvSc)** and **Doctoral Researcher** at **Kiel University / GEOMAR Helmholtz Centre for Ocean Research Kiel**, where I investigate the interplay between anthropogenic activities and the export of trace elements to coastal waters. My research spans marine biogeochemistry, peatland ecosystems, wetland restoration, and water quality monitoring.
+I am a **Chartered Environmental Scientist (CEnv, MIEnvSc)** and **Researcher** at **Kiel University / GEOMAR Helmholtz Centre for Ocean Research Kiel**, where I investigate the interplay between anthropogenic activities and the export of trace elements to coastal waters. My research spans marine biogeochemistry, peatland ecosystems, wetland restoration, and water quality monitoring.
 
 What sets me apart: I bring **PhD-level scientific rigour** to every data problem, and I apply **AI, machine learning, and modern data tools** to extract meaningful insight from complex environmental datasets. I am actively building at the intersection of **environmental science and artificial intelligence**.
 
