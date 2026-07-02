@@ -17,7 +17,7 @@
 
 ## 🌊 About Me
 
-I am **Peter Rowland Ukotije-Ikwut, PhD** — a leading authority in **Environmental Biogeochemistry and Industrial Safety Engineering**, with over a decade of experience spanning academia, the energy sector, and international research. I specialise in bridging biogeochemical theory with industrial application, and I apply **AI, machine learning, and modern data science tools** to extract meaningful insight from complex environmental datasets.
+I am **Dr. Peter Rowland Ukotije-Ikwut** — a leading authority in **Environmental Biogeochemistry and Industrial Safety Engineering**, with over a decade of experience spanning academia, the energy sector, and international research. I specialise in bridging biogeochemical theory with industrial application, and I apply **AI, machine learning, and modern data science tools** to extract meaningful insight from complex environmental datasets.
 
 ### 🏛️ Academic & Leadership Roles
 - **Senior Lecturer**, Department of Industrial Safety & Environmental Engineering Technology, **Federal Polytechnic of Oil and Gas, Bonny**
@@ -74,7 +74,7 @@ What sets me apart further: I am actively building at the intersection of **envi
 ### 🦺 Health, Safety & Environment
 | Certificate | Issuer |
 |---|---|
-| 🛡️ **NEBOSH National General Certificate in Occupational Health & Safety** | NEBOSH, UK |
+| 🛡️ **NEBOSH International General Certificate in Occupational Health & Safety** | NEBOSH, UK |
 
 ---
 
